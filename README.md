@@ -51,5 +51,3 @@ Stack-Based: O(n) time complexity
 2. Arrows (`→`) preserved for visual flow
 3. Emojis render natively on GitHub
 4. Algorithm steps use bold headers for scannability
-
-Want me to add an installation section or contribution guidelines? 😊
